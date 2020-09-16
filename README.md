@@ -16,5 +16,7 @@ Email: hurt@criptext.com<br/><br/>
 
 
 **Music**
+
 I am a huge fan of music. If you use Last.fm please follow me! :D
+
 <a target="_blank" href="https://www.last.fm/user/Cain">My Profile</a>
