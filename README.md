@@ -4,7 +4,7 @@
 
 **Current Projects**
 
-<a href="https://bay-boost.com/" target="_blank">[🚀] Bay-Boost.com | Best service for automated Ebay Views SEO. (With Several Free Tools)</a>
+<a href="https://bay-boost.com/" target="_blank">[🚀] Bay-Boost.com | Best service for automated Ebay Views SEO. (With Several Free Tools)</a><br>
 <a href="https://github.com/Bay-Boost/Ebay-API-Wrapper-PHP" target="_blank">Open-Sourc Ebay API Wrapper w/ Documentation
 
 
