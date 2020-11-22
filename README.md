@@ -16,7 +16,7 @@
 
 **Contact Information**  
 
-Email: hurt@criptext.com<br/><br/>
+Email: caintdev@gmail.com<br/><br/>
 
 
 **Music**
