@@ -5,8 +5,8 @@
 **Current Projects**
 
 <a href="https://bay-boost.com/" target="_blank">[🚀] Bay-Boost.com | Best service for automated Ebay Views SEO. (With Several Free Tools)</a><br>
-<a href="https://github.com/Bay-Boost/Ebay-API-Wrapper-PHP" target="_blank">Open-Source Ebay API Wrapper w/ Documentation</a>
-<a href="https://www.leagueglance.com/" target="_blank">Free League Name Tool</a>
+<a href="https://github.com/Bay-Boost/Ebay-API-Wrapper-PHP" target="_blank">Open-Source Ebay API Wrapper w/ Documentation</a><br>
+<a href="https://www.leagueglance.com/" target="_blank">Free League of Legends Name Look-up Tool</a>
 
 
 **Technologies**
