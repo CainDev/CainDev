@@ -1,5 +1,5 @@
 **Welcome 👋**
-
+Someone hire me please.
 
 
 **Current Projects**
@@ -11,7 +11,11 @@
 
 **Technologies**
 
-<img src="https://img.icons8.com/ios/35/000000/javascript.png"/><img src="https://img.icons8.com/ios/35/000000/php.png"/><img src="https://img.icons8.com/ios/35/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/ios/35/000000/python.png"/><img src="https://img.icons8.com/ios/35/000000/selenium-test-automation.png"/><br/><br/>
+C#, Python 3, Js/NodeJs, PHP, MySQL, HTML/CSS, Selenium (C# Library), 
+
+
+**Non-Coding Competencies**
+Photoshop, Sony Vegas, 2+ Years Customer Support Exp. Various experience with several APIs (Twitter/Reddit/League of Legends/+)
 
 
 
