@@ -1,25 +1,27 @@
 **Welcome 👋**
 
+<br>
 
 **Current Projects**
 
 <a href="https://steamcommunity.com/profiles/76561199083717641/myworkshopfiles/" target="_blank">Forager Mods (7.5k+ Users!)</a>
-
+<br><br>
 
 **Technologies**
 
 C#, Python 3, Js/NodeJs, PHP, MySQL, HTML/CSS, Selenium (C# Library), 
+<br><br>
 
 
 **Non-Coding Competencies**
 
 Photoshop, Sony Vegas, 2+ Years Customer Support Exp. Various experience with several APIs (Twitter/Reddit/League of Legends/+)
+<br><br>
 
 
 **Contact Information**  
 
 Email: caintdev@gmail.com<br/><br/>
-
 
 **Music**
 
