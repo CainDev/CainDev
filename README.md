@@ -4,7 +4,7 @@
 
 **Current Projects**
 
-<a href="https://steamcommunity.com/profiles/76561199083717641/myworkshopfiles/" target="_blank">Forager Mods (7.5k+ Users!)</a>
+<a href="https://steamcommunity.com/profiles/76561199083717641/myworkshopfiles/" target="_blank">Forager Mods (11k+ Users!)</a>
 <br><br>
 
 **Technologies**
